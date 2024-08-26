@@ -1,5 +1,6 @@
 # calliope
 Calliope: the Story Generator
+version 2.0.8
 
 # information
 Calliope was first created in the winter of 2019
